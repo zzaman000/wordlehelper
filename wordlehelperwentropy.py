@@ -198,4 +198,4 @@ def main():
         print("Out of turns. Try again!")
 
 if __name__ == "__main__":
-    main
+    main()
